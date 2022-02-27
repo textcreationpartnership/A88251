@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The second letter from John Lilburn Esquire, prisoner in Newgate to the Right Honourable John Fowke, Lord Major of the city of London.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88251</idno>
+            <idno type="STC">Wing L2179</idno>
+            <idno type="STC">Thomason E706_5</idno>
+            <idno type="STC">ESTC R211024</idno>
+            <idno type="EEBO-CITATION">99869763</idno>
+            <idno type="PROQUEST">99869763</idno>
+            <idno type="VID">163974</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88251)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163974)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:E706[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The second letter from John Lilburn Esquire, prisoner in Newgate to the Right Honourable John Fowke, Lord Major of the city of London.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Concerning Lilburne's trial, etc.</note>
+                  <note>Dated at end: Newgate this 10th of July, 1653.</note>
+                  <note>Annotation on Thomason copy: "July. 21."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657 --  Imprisonment --  Early works to 1800.</term>
+               <term>Fowke, John, d. 1662 --  Early works to 1800.</term>
+               <term>Trials (Treason) --  England --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:163974:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 51 -->
+            <p>The Second LETTER FROM JOHN LILBURN Eſquire, Priſoner in Newgate: TO THE Right Honourable JOHN FOWKE, Lord Major of the City of LONDON.</p>
+            <p>LONDON, Printed in the Year, 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:163974:2"/>
+            <!-- PDF PAGE 52 -->
+            <pb n="3" facs="tcp:163974:2"/>
+            <!-- PDF PAGE 52 -->
+            <head>To the Right Honourable John Fovvk, Lord Major of the City of London, theſe humbly preſent.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Was committed to this priſon by your War<g ref="char:EOLhyphen"/>rant, and I am now informed, that ſundry <hi>Wit<g ref="char:EOLhyphen"/>neſſes</hi> are ſummoned to give <hi>evidence</hi> to the <hi>grand</hi> (or firſt) <hi>Jury</hi> againſt me; upon which, they may have ſeeming ground for finding ſome Indictment, without which it is known I cannot be further proceeded againſt.</p>
+            <p>It hath been an <hi>evil cuſtom</hi> for many Ages (taken up meerly upon Prerogative Intereſts) and that without <hi>Law, Reaſon,</hi> or any <hi>Statute,</hi> or <hi>Act of Parliament</hi> to warrant it, for the <hi>Grand</hi> (or firſt) <hi>Jury,</hi> upon return of <hi>private Chamber-examinations</hi> of parties or witneſſes, to find the <hi>firſt In<g ref="char:EOLhyphen"/>dictment</hi> againſt the priſoner, without his <hi>privity,</hi> or being called to give his <hi>juſt Challenge</hi> to the <hi>Witneſſes Teſtimony;</hi> which Indictment, ſo found or preſented, <hi>billa vera,</hi> can be no leſs then a <hi>Condemnation without publike or open Exami<g ref="char:EOLhyphen"/>nation</hi> of the firſt, contrary even to the laudible practice
+<pb n="4" facs="tcp:163974:3"/>
+               <!-- PDF PAGE 53 -->of the ancient <hi>Heathen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Rom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> Judges, as is moſt excellent<g ref="char:EOLhyphen"/>ly ſet forth by the <hi>Evangeliſt Luke</hi> in the <hi>Acts</hi> of the <hi>Apo<g ref="char:EOLhyphen"/>ſtles,</hi> chap. 24.16. in the <hi>Caſe</hi> of <hi>Paul,</hi> upon his Appeal to <hi>Caeſar.</hi> And ſuitable to this, another Heathen Writer could ſay, <hi>Quis aliquid Statuerit, altera part<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> inaudita, equum licit Statuerit, injuſtus eſt;</hi> That is to ſay, Whoſoever judgeth any cauſe or party unheard, though the Sentence be agreeable with Law, yet in ſo judging is unjuſt; And this favour, in caſe of Treaſon; was not denied to Major <hi>Rolf,</hi> upon his Tryal in Hampſhire, in caſe of high Treaſon a<g ref="char:EOLhyphen"/>bout 4 years ſince, before the Lord chief Ba<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on <hi>Wilde;</hi> as is well known to Judge <hi>N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cholas,</hi> and Mr. <hi>John Maynard</hi> then of Councel with Major <hi>Rolf:</hi> But Major <hi>Rolf</hi> with His Councel was admitted to be preſent in open Court upon the Examination of the Witneſſes produced againſt him, before the grand Jury there, and to give his legal excepti<g ref="char:EOLhyphen"/>ons to the Witneſſes: By meanes of which the priſoner <hi>Rolf</hi> was freed.</p>
+            <p>And in caſe of Fellony, I am well informed that at <hi>Carliſle</hi> Aſſizes about 1642. by Sir <hi>R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bert Heath,</hi> the like favour and juſtice was gran<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed to ſundry priſoners, as their legal Right, to the preſervation of their lives: For then there were ſundry of Sir <hi>Richard Grimes</hi> Tenants committed to Carliſle priſon by their ſaid Maſters procurement; and a Rogue called <hi>Burney</hi> there kept in priſon likewiſe for Fel<g ref="char:EOLhyphen"/>lony, and therein maintained by Sir <hi>Richard Grimes</hi> to give evidence upon the priſoners Tryal, as an <hi>Approver,</hi> wherewith Judge <hi>Heath</hi> being informed at the priſoners Suit, The Witneſſes againſt them at the Bar in open Court were examined by the Grand Jury in preſence of the priſoners; and upon the priſoners legal Exceptions and Challenge, the Rogues Evidence was waved, and the priſoners acquitted by the Grand Jury, and ſo their lives never came in jeopardy.</p>
+            <pb n="5" facs="tcp:163974:3"/>
+            <!-- PDF PAGE 53 -->
+            <p>I being a free born Engliſh-man, I hope ſhall not be denied that right granted of courſe to priſoners, charged with higher crimes then I am; And that the Grand Jury being to return their Indictment againſt me upon their Oathes, I expect the like juſtice from them, and you; <hi>which if denied,</hi> will render both you and them unjuſt men: As before by the practice of the Heathens, and the Judges and Sages of the Law of this Nation is cleerly made out, and approved of God.</p>
+            <p>Therefore I deſire you before any Witneſſes be judici<g ref="char:EOLhyphen"/>ally ſworn and examined before the Grand Jury againſt me, That I may be preſent, and allowed with <hi>my</hi> Councel, to give my legal Exceptions againſt them; and that no Witneſſes may be examined againſt me, but in open <hi>Court,</hi> in the face of the free people of England: So having my Accuſers face to face, I may have licenſe to anſwer for my ſelf concerning the Crime laid againſt me.</p>
+            <p>
+               <hi>Sir,</hi> The bloud thirſty Jewes could not, neither do we finde they offered to procure <hi>Pontius Pylate,</hi> the Roman Judge, to examine Witneſſes againſt Chriſt, otherwiſe th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the publike Judicatures, and in the very preſence of Chriſt.</p>
+            <p>I further deſire you to aſſigne me Counſel, be<g ref="char:EOLhyphen"/>ing my abſolute Right by Law, to adviſe, conſult, and be aſſiſtant to me in matter of Law upon my Trial; as was granted to the Earl of Strafford in caſe of High Treaſon upon his Trial by his Peers in Parliament, to Duke Hamilton an Alien to the Earl of Holland an Engliſh Peer, and to the Lord Capel in Caſe of High Treaſon, upon their trial before the High Court of Juſtice, and to the
+<pb n="6" facs="tcp:163974:4"/>
+               <!-- PDF PAGE 54 -->above-named Major Rolfe, in caſe of Treaſon at the Aſſizes or Goal-delivery in the aforeſaid Coun<g ref="char:EOLhyphen"/>ty of Hampſhire, and to Vaux the Lawyer in caſe of Felony upon his trial for his life, in the Reign of the late Queen Elizabeth, as is by Judge Cook in Vauxes Caſe of Appeals learnedly ſet forth, and which was granted to my ſelf at Oxford, by the Cavalier Judges there, as my Right by Law, when I was there arraigned for my life upon an Indict<g ref="char:EOLhyphen"/>ment of High Treaſon.</p>
+            <p>My Lord, I have prevailed with my Father and ſome other my honeſt friends, to be the Bearers hereof to your Honour, to receive ſuch an anſwer from you, as you need not hereafter at the Bar of Juſtice to be aſhamed of: So with my ſervice pre<g ref="char:EOLhyphen"/>ſented to you, intreating you ſeriouſly to remem<g ref="char:EOLhyphen"/>ber the Puniſhment of the Arbitrary Lord Major of London in King Richard the ſeconds time, men<g ref="char:EOLhyphen"/>tioned in the laſt Page of the firſt Edition of Lieu<g ref="char:EOLhyphen"/>tenant Colonel John Lilburne's Plea in Law, I reſt</p>
+            <closer>
+               <dateline>
+                  <hi>Newgate</hi> 
+                  <date>
+                     <hi>this</hi> 10th <hi>of July,</hi> 1653.</date>
+               </dateline>
+               <signed>Yours, if you be Englands real Friend, <hi>JOHN LILBURNE.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="7" facs="tcp:163974:4"/>
+            <!-- PDF PAGE 54 -->
+            <p>I humbly deſire your Lordſhip to communicate this to the Sheriffes of London.</p>
+         </div>
+         <div type="answer">
+            <div type="editorial_note">
+               <opener>
+                  <salute>READER,</salute>
+               </opener>
+               <p>
+                  <hi>THis Letter being preſented to his Lordſhip by Maſter</hi> Lil<g ref="char:EOLhyphen"/>burnes <hi>Father and four other of his friends, his Lordſhip having read the ſame, returned this Anſwer.</hi>
+               </p>
+            </div>
+            <div type="body_of_answer">
+               <opener>
+                  <salute>GENTLEMEN,</salute>
+               </opener>
+               <p>I See what it is he deſires, and for my part I do declare unto you, that I ſhall not go about to hinder him of any thing that is his Right; but this he deſires I cannot do alone. I ſhall to morrow be<g ref="char:EOLhyphen"/>ing the Seſſions, communicate this Letter to the Recorder and the Sheriffes, and he ſhall have my beſt aſſiſtance. — And ſo wiſh'd his Father to repair to the Seſſions, to receive an Anſwer from the Bench.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
